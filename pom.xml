@@ -33,3 +33,26 @@
     </developer>
   </developers>
 </project>
+
+
+<!-- y esto le meti con el master
+
+
+
+
+  <scm>
+    <connection>
+      scm:git:@project.repo.url@
+    </connection>
+    <url>@project.scm.url@</url>
+  </scm>
+
+  <developers>
+    <developer>
+      <name>Christopher Wellons</name>
+      <email>mosquitopsu@gmail.com</email>
+      <url>http://nullprogram.com</url>
+      <timezone>-5</timezone>
+    </developer>
+  </developers>
+</project> -->
